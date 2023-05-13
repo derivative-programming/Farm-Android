@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Farm</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="company_name">NewCo, Inc.</string>
+    <string name="login_heading">Please enter your email and password.</string>
+    <string name="email">Email</string>
+    <string name="email_warning">Please enter an Email</string>
+    <string name="password">Password</string>
+    <string name="password_warning">Please enter a Password</string>
+    <string name="footer">Copyright © 2023 • NewCo, Inc.</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="a_couple_details">A Couple Details Then We\'re Off!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password_error">Please enter a Confirm Password</string>
+    <string name="first_name_error">Please enter a First Name</string>
+    <string name="last_name_error">Please enter a Last Name</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="farm_dashboard">Farm Dashboard</string>
+    <string name="dashboard_intro">Farm Dashboard page intro text</string>
+    <string name="field_one_plants">Field One-Plants</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_connection">No active internet found.</string>
+    <string name="the_passwords_do_not_match">The passwords do not match.</string>
+    <string name="logout">Logout</string>
+    <string name="loading">Loading</string>
+    <string name="email_validation">Invalid Email Address</string>
+    <string name="password_validation">The password must contain at least 8 characters that include 1 upper case letter, 1 lower case letter, 1 number, and 1 non-alpha numeric character.</string>
+</resources>
